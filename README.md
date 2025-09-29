@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Procompov
 - 👀 I’m interested in programming, gamedesign and management
-- 🌱 I’m currently learning Lua language
+- 🌱 I’m currently learning C++ and Lua
 - 📫 How to reach me: email: vladimir@procompov.ru / vladimir.ambartsumian@gmail.com
 
 <!---
